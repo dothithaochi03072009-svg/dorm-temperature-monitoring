@@ -37,7 +37,7 @@ CSV file.
   and decided to actually measure it instead of guessing
 - **Oct 3**: Wrote the research outline
 - **Oct 7**: Started writing the code
-- **Oct 10**:Ordered the hardware (ESP32 boards, NTC probes, DS3231
+- **Oct 10**: Ordered the hardware (ESP32 boards, NTC probes, DS3231
   modules,etc)
 - **Oct 26–28**: Wired and tested both sensor nodes and the receiver;
   traced a probe that kept reading "shorted" back to a loose, untrimmed
