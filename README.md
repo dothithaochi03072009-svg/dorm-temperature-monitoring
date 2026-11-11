@@ -44,7 +44,7 @@ CSV file.
   wire, and found a naming conflict in the temperature formula
 - **Nov 5**: Started the calibration phase: running both sensors side
   by side before placing them in separate rooms
-  ## Current status
+## Current status
 Both sensor nodes and the receiver are built, coded, and transmitting
 data successfully. I'm currently in the calibration phase, running
 both sensors side by side in my room and comparing them to a reference
